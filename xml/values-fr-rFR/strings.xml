@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="settings">Paramètres</string>
+    <string name="general">Général</string>
+    <string name="keep_screen_on">Gardez l'écran allumé</string>
+    <string name="appearance">Apparence</string>
+    <string name="grid_box_colors">Couleurs dans la grille</string>
+    <string name="invert_colors">Inverser les couleurs</string>
+    <string name="dev_options">Options de développeur</string>
+    <string name="secure_flag">Secure Flag</string>
+    <string name="how_to_play">Comment jouer</string>
+    <string name="name">Nom</string>
+    <string name="time">Temps</string>
+    <string name="size">Taille</string>
+    <string name="difficulty">Difficulté</string>
+    <string name="elapsed_time">Temps écoulé: %1$s</string>
+    <string name="current_time">Temps: %1$s</string>
+    <string name="select_file">Choisir le fichier</string>
+    <string name="successfully_imported">%s importé avec succès</string>
+    <string name="failed_to_import_game">Échec de l'importation du jeu</string>
+    <string name="error">Erreur</string>
+    <string name="invalid_game">Jeu invalide</string>
+    <string name="no_solution">Pas de solution</string>
+    <string name="multiple_solutions">Multiples solutions</string>
+    <string name="game_added_to_list">Jeu ajouté à la liste</string>
+</resources>
